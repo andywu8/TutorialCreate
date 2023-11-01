@@ -1,7 +1,7 @@
 # react-express-node-app
 full stack nodejs, express, react, sql app
-
-
+# About
+* resource: https://www.bezkoder.com/react-node-express-mysql/
 # NPM
 * npm install express sequelize mysql2 cors --save
 
