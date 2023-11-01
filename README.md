@@ -10,7 +10,7 @@ full stack nodejs, express, react, sql app
 * npm install axios
 
 
-## Typescript
+## or if you're using: Typescript
 * npx create-react-app react-axios-typescript-example --template typescript
 * npm install react-router-dom --save
 * downgrade version: npm i react-router-dom@5.2.0
