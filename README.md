@@ -2,6 +2,7 @@
 full stack nodejs, express, react/typescript, sql app
 # About
 * resource: https://www.bezkoder.com/react-node-express-mysql/
+* App allows you to create, edit, view, and delete tutorials on the website.
 # NPM
 * npm install express sequelize mysql2 cors --save
 ## React App
