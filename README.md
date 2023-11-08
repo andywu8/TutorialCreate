@@ -1,5 +1,5 @@
 # react-express-node-app
-full stack nodejs, express, react, sql app
+full stack nodejs, express, react/typescript, sql app
 # About
 * resource: https://www.bezkoder.com/react-node-express-mysql/
 # NPM
