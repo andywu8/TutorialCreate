@@ -1,4 +1,4 @@
-# react-express-node-app
+# TutorialCreate
 full stack nodejs, express, react/typescript, sql app
 # About
 * resource: https://www.bezkoder.com/react-node-express-mysql/
